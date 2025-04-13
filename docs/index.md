@@ -1,4 +1,4 @@
-# How2floß!
+# How2floß
 
 ## Vor der Abfahrt
 
