@@ -4,26 +4,18 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
   title: "How2Floß",
   description: "A VitePress Site",
+  head: [["link", { rel: "icon", type: "image/png", href: "logo_small.png" }]],
 
   srcDir: "docs",
   base: "/how2floss/",
+  vite: {
+    publicDir: "../.public",
+  },
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
-
-    sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
-    ],
+    logo: "/logo_small.png",
+    nav: [{ text: "Home", link: "/" }],
 
     socialLinks: [{ icon: "github", link: "https://github.com/bootschaft" }],
   },
