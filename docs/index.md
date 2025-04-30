@@ -28,7 +28,7 @@ Ein kurzer Überblick und Erklärung der Komponenten für die Elektrik findet ma
 6. Sicherung der Konverter 4 und 5
 7. 7a Pluspol / 7b Minuspol des 48V-Knotens
 8. Motor-Controller Engine I
-9. Konverter 48->5V für Raspbi (always on)
+9. Konverter 48->5V für Raspberry Pi (always on)
 10. Sicherung Batterien
 11. Sicherung Engine I
 12. Sicherung Engine II
