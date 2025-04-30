@@ -14,7 +14,7 @@
 
 ## Elektrik
 
-Eine kurzen Überblick und Erklärung der Komponenten für die Elektrik findet man hier.
+Ein kurzer Überblick und Erklärung der Komponenten für die Elektrik findet man hier.
 
 ### Überblick
 
