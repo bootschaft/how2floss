@@ -6,9 +6,9 @@
   - Sicherung 11 (Motor) anschalten
   - Sicherung 6 (Verbraucher) anschalten
 - Checken
-  -  Batterieladestand ausreichend für geplane Tour?
-  -  Dreht sich der Lüfter (8) - sonst nicht losfahren bzw. maximal 15 Minuten fahren!
-  -  Bei Nachtfahrt: Positionslichter prüfen
+  - Batterieladestand ausreichend für geplane Tour?
+  - Dreht sich der Lüfter (8) - sonst nicht losfahren bzw. maximal 15 Minuten fahren!
+  - Bei Nachtfahrt: Positionslichter prüfen
 
 ## Nach der Floßfahrt
 
