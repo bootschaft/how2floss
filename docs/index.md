@@ -2,13 +2,19 @@
 
 ## Vor der Abfahrt
 
-- Strom anmachen
-- Checken, ob die Batterien genug geladen sind
-- Bei Nachtfahrt: Checken, ob die Positionlichter funktionieren
+- Strom anmachen:
+  - Sicherung 11 (Motor) anschalten
+  - Sicherung 6 (Verbraucher) anschalten
+- Checken
+  -  Batterieladestand ausreichend für geplane Tour?
+  -  Dreht sich der Lüfter (8) - sonst nicht losfahren bzw. maximal 15 Minuten fahren!
+  -  Bei Nachtfahrt: Positionslichter prüfen
 
 ## Nach der Floßfahrt
 
-- Strom aus?
+- Strom
+  - Sicherung 10 (Batterie) und 3 (PV) anlassen
+  - Alle anderen Sicherung ausmachen (grünes Symbol im Sichtfenster)
 - Alle Kisten wieder verschlossen?
 - Müll mitgenommen?
 
