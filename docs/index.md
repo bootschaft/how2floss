@@ -27,8 +27,8 @@ Ein kurzer Überblick und Erklärung der Komponenten für die Elektrik findet ma
 ![Elektrik Überblick](<wackelberry foto.png>)
 
 1. Solar-Laderegler
-2. Anschlüsse 12-V Bank I (2b - Bank II rechts daneben)
-3. Sicherung Solarzellen (nicht im Bild)
+2. Anschlüsse 12-V Bank I (2b - Bank II hinter Balken)
+3. Sicherung Solarzellen
 4. Konverter 48->12V Bank I
 5. Konverter 48->12V Bank II
 6. Sicherung der Konverter 4 und 5
@@ -39,6 +39,12 @@ Ein kurzer Überblick und Erklärung der Komponenten für die Elektrik findet ma
 11. Sicherung Engine I
 12. Sicherung Engine II
 13. Sicherung 230V-Wechselrichter + Notladegerät
+14. Sicherung Kühlschrank + Pumpe
+15. Wechselrichter (230V)
+16. Not-Ladegerät
+17. Endstufe Lautsprecher
+18. Raspbi
+19. Schalter Konsolenbeleuchtung
 
 48V Nominalspannung: Variiert zwischen 52-58 V
 
